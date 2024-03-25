@@ -1,4 +1,4 @@
-# Eticdot.com E-Ticaret Sitesi
+# DepoMaECommerce-Solution  
 
 ## Onemli
 
