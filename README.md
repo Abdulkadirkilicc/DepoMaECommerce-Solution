@@ -11,7 +11,7 @@
 Kodu hizlica calistirmak icin asagidaki komutlari calistirabilirsiniz
 
 ```
-$ git clone git@github.com:Abdulkadirkilicc/DepoMaECommerce-Solution.git
+$ git clone https://github.com/Abdulkadirkilicc/DepoMaECommerce-Solution.git
 $ cd DepoMaECommerce-Solution
 $ npm install && npm run dev
 ```
