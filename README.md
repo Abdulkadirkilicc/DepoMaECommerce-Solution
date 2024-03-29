@@ -12,6 +12,6 @@ Kodu hizlica calistirmak icin asagidaki komutlari calistirabilirsiniz
 
 ```
 $ git clone git@github.com:Abdulkadirkilicc/DepoMaECommerce-Solution.git
-$ cd eticdot
+$ cd DepoMaECommerce-Solution
 $ npm install && npm run dev
 ```
