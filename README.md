@@ -34,8 +34,3 @@ Kodu hizlica calistirmak icin asagidaki komutlari calistirabilirsiniz
     ```bash
     npm start
     ```
-
-2. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine gidin.
-
-
-```
