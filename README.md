@@ -11,7 +11,31 @@
 Kodu hizlica calistirmak icin asagidaki komutlari calistirabilirsiniz
 
 ```
-$ git clone https://github.com/Abdulkadirkilicc/DepoMaECommerce-Solution.git
-$ cd DepoMaECommerce-Solution
-$ npm install && npm run dev
+## Kurulum
+
+1. Bu depoyu klonlayın:
+    ```bash
+    git clone https://github.com/Abdulkadirkilicc/DepoMaECommerce-Solution.git
+    ```
+
+2. Proje dizinine gidin:
+    ```bash
+    cd DepoMaECommerce-Solution
+    ```
+
+3. Gerekli bağımlılıkları yükleyin:
+    ```bash
+    npm install
+    ```
+
+## Çalıştırma
+
+1. Uygulamayı başlatın:
+    ```bash
+    npm start
+    ```
+
+2. Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine gidin.
+
+
 ```
