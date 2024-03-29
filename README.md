@@ -1,6 +1,6 @@
 
 # DepoMaECommerce-Solution  
-# Eticdot
+## Eticdot
 
 ## Onemli
 
